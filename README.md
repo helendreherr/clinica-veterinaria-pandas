@@ -43,5 +43,3 @@ Métrica . Valor
 - Agrupamentos com `groupby`
 - Visualizações com Matplotlib
 - Automatizar geração de relatórios
-
-#  Estrutura
