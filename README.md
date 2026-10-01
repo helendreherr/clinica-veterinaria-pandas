@@ -1,6 +1,3 @@
-# clinica-veterinaria-pandas
-Análise exploratória de uma clínica veterinária com Python e Pandas.
-
 #  Análise de Clínica Veterinária com Pandas
 
 Meu primeiro projeto de análise de dados com Python e Pandas.  
