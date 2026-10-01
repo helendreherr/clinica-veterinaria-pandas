@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas&logoColor=white)
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-success)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 #  Análise de Clínica Veterinária com Pandas
 
 Meu primeiro projeto de análise de dados com Python e Pandas.  
